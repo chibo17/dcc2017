@@ -13,7 +13,7 @@ Two algorithms were tested:
 The first step for this algorithm, we did an exhaustive search in the set of all connected graphs (graphlets) of sizes 4-9. We identified all graphlets that are symmetry-compressible. The table below summarizes these results, showing the number of graphlets considered and the number of symmetry-compressible graphlets found.
 
 | size | all graphlets  | sym. compressible |
-| :------------- | :------------- |
+| :------------- | :------------- |  :------------- |
 | 4       |  6      |  3   |
 | 5       |   21     |  13 |
 | 6       |   112     | 87  |
